@@ -1,4 +1,4 @@
-import { app } from "./app.mjs";
+import { app } from "./app.js";
 
 const PORT = process.env.PORT ?? 60006;
 const HOST = process.env.HOST ?? '0.0.0.0';
